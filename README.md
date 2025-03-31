@@ -1,6 +1,6 @@
 # 60 Dias de progamação em Python
 
-- [ ] Dia 1
+- [x] Dia 1 Inserindo "olá mundo" no terminal
 - [ ] Dia 2
 - [ ] Dia 3
 - [ ] Dia 4
