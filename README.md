@@ -1,4 +1,4 @@
 # 60 dias de progamacao em python
 
-- [ ] Dia 1
+- [x] Dia 1 Meu primeiro código
 
