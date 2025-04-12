@@ -1,2 +1,2 @@
 # 60 dias de progamacao em python
-- [ ] Dia 1
+- [x] Dia 1 Criando o meu primeiro código em python
