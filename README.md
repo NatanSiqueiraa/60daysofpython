@@ -3,6 +3,7 @@
 - [x] Dia 2 Somando números de duas formas distintas
 - [x] Dia 3 Descobrindo se um número é par ou ímpar
 - [x] Dia 4 Treinando comandos de repetição
+- [x] Dia 5 Quadrado e o dobro de um número
 
 
 
