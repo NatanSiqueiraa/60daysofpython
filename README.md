@@ -5,6 +5,8 @@
 - [x] Dia 4 Treinando comandos de repetição
 - [x] Dia 5 Quadrado e o dobro de um número
 - [x] Dia 6 utilizando listas
+- [x] Dia 7 dicionário aluno dinãmico e estático
+
 
 
 
