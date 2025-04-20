@@ -7,6 +7,7 @@
 - [x] Dia 6 utilizando listas
 - [x] Dia 7 dicionário aluno dinãmico e estático
 - [x] Dia 8 criando uma função que verifica se o usuário pode dirigir 
+- [x] Dia 9 contador personalizado
 
 
 
