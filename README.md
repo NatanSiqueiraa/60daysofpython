@@ -10,7 +10,7 @@
 - [x] Dia 9 contador personalizado
 - [x] Dia 10 criando um gerador de senhas pessoal
 - [x] Dia 11 números ordenados
-
+- [x] Dia 12 busca linear
 
 
 

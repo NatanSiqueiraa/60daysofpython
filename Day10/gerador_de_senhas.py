@@ -14,4 +14,4 @@ def gerador_de_senhas(tamanho):
         
     print(f"A senha gerada é: {senha}")
     
-gerador_de_senhas(30)
+gerador_de_senhas(10)
