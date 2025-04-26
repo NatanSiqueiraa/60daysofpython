@@ -12,6 +12,8 @@
 - [x] Dia 11 números ordenados
 - [x] Dia 12 busca linear
 - [x] Dia 13 função fatorial
+- [x] Dia 14 verificando se um número é primo
+
 
 
 
