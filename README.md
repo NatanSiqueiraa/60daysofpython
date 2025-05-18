@@ -13,6 +13,10 @@
 - [x] Dia 12 busca linear
 - [x] Dia 13 função fatorial
 - [x] Dia 14 verificando se um número é primo
+- [x] Dia 15 fibonacci
+- [x] Dia 16 anagrama
+- [X] Dia 17 criando uma função que verifica se um número é palindromo
+- [ ] Dia 18 contabilizar palavras de uma string
 
 
 
