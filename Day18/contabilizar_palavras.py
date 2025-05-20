@@ -11,5 +11,4 @@ def contar_palavras(texto):
     return len(palavras)
 
 contar = input("Digite uma frase: ")
-print(f"A frase possui:{contar_palavras(contar)} palavras ")
-print()
+print(f"A frase possui: {contar_palavras(contar)} palavras ")
